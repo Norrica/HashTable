@@ -1,0 +1,6 @@
+D:\AAA\Программы\C#\HashTable\HashTable\bin\Debug\HashTable.exe.config
+D:\AAA\Программы\C#\HashTable\HashTable\bin\Debug\HashTable.exe
+D:\AAA\Программы\C#\HashTable\HashTable\bin\Debug\HashTable.pdb
+D:\AAA\Программы\C#\HashTable\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+D:\AAA\Программы\C#\HashTable\HashTable\obj\Debug\HashTable.exe
+D:\AAA\Программы\C#\HashTable\HashTable\obj\Debug\HashTable.pdb
